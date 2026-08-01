@@ -1,19 +1,19 @@
 {
   "released_at": "2026-08-01",
   "kassa": {
-    "latest": "v0.2.84",
-    "notes_url": "https://github.com/helloworld401/aibat-kassa/releases/tag/v0.2.84-tenant"
+    "latest": "v0.2.85",
+    "notes_url": "https://github.com/helloworld401/aibat-kassa/releases/tag/v0.2.85-tenant"
   },
   "dash": {
-    "latest": "v0.2.84",
-    "notes_url": "https://github.com/helloworld401/aibat-kassa/releases/tag/v0.2.84-tenant"
+    "latest": "v0.2.85",
+    "notes_url": "https://github.com/helloworld401/aibat-kassa/releases/tag/v0.2.85-tenant"
   },
   "api": {
-    "latest": "v0.2.84",
-    "notes_url": "https://github.com/helloworld401/aibat-kassa/releases/tag/v0.2.84-tenant"
+    "latest": "v0.2.85",
+    "notes_url": "https://github.com/helloworld401/aibat-kassa/releases/tag/v0.2.85-tenant"
   },
   "edge": {
-    "latest": "v0.2.84",
-    "notes_url": "https://github.com/helloworld401/aibat-kassa/releases/tag/v0.2.84-tenant"
+    "latest": "v0.2.85",
+    "notes_url": "https://github.com/helloworld401/aibat-kassa/releases/tag/v0.2.85-tenant"
   }
 }
